@@ -1,3 +1,3 @@
-# cancri-mockup
+# cancri-website
 
 used bootstrap 4
